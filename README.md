@@ -1,1 +1,2 @@
-# multitop
+# synchronousBallMovement
+Ball moving synchronously
